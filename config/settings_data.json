@@ -1,0 +1,121 @@
+{
+  "current": {
+    "sections": {
+      "16254402151f9b3e63": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/mens-tshirts.jpg"
+        }
+      },
+      "1626027737640cf656": {
+        "type": "rich-text",
+        "settings": {
+          "title": "Shopify Theme Inspired By Drake's Related",
+          "description": "<p>Feel free to use this theme<\/p><p>Redesign and customize for your need<\/p><p>Build the theme for the future<\/p>"
+        }
+      },
+      "16260357925ed1bed7": {
+        "type": "logo-list",
+        "blocks": {
+          "16260357925ed1bed7-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/shopify_glyph.png",
+              "link": ""
+            }
+          },
+          "16260357925ed1bed7-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/vuejs.png",
+              "link": "https:\/\/www.vuejs.org"
+            }
+          },
+          "16260357925ed1bed7-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/js_logo.png",
+              "link": ""
+            }
+          },
+          "16260357925ed1bed7-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/css_logo.png",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "16260357925ed1bed7-0",
+          "16260357925ed1bed7-1",
+          "16260357925ed1bed7-2",
+          "16260357925ed1bed7-3"
+        ],
+        "settings": {
+          "title": "Technologies Used"
+        }
+      },
+      "162603784476204f76": {
+        "type": "image-with-text",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/white-faced-watch.jpg",
+          "title": "Beautiful theme",
+          "text": "<p>Simple Design<\/p><p>Modern Contemporary Concept<\/p>",
+          "reverve_row": false
+        }
+      },
+      "162603839068cd2842": {
+        "type": "image-with-text",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/stylish-summer-necklace.jpg",
+          "title": "Why shopify?",
+          "text": "<p>A platform that is versatile and strict. Flexible and reliable. Easy to start but difficult to master. <\/p>",
+          "reverve_row": true
+        }
+      },
+      "1626039225e3c88949": {
+        "type": "image-with-text",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/the-man-in-the-hat.jpg",
+          "title": "Shopify with Vue",
+          "text": "<p><br\/> <strong>Vue<\/strong> also allows you to write the templates as you wish: using HTML, <strong>JS.<\/strong> Between its components and lightweight nature, <strong>Vue<\/strong> can be <strong>used<\/strong> in nearly any project.<br\/><br\/><\/p>",
+          "reverve_row": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "e9fec00c-2bc6-4650-bd07-4e9d78cdaea2": {
+            "type": "social_link",
+            "settings": {
+              "social_facebook_link": "https:\/\/facebook.com",
+              "social_twitter_link": "https:\/\/facebook.com",
+              "social_instagram_link": "https:\/\/facebook.com",
+              "social_youtube_link": "https:\/\/facebook.com",
+              "social_pinterest_link": "https:\/\/facebook.com"
+            }
+          }
+        },
+        "block_order": [
+          "e9fec00c-2bc6-4650-bd07-4e9d78cdaea2"
+        ],
+        "settings": {
+          "title": "Custom Theme Built from Srcatch with Vuejs"
+        }
+      }
+    },
+    "content_for_index": [
+      "16254402151f9b3e63",
+      "1626027737640cf656",
+      "16260357925ed1bed7",
+      "162603784476204f76",
+      "162603839068cd2842",
+      "1626039225e3c88949"
+    ]
+  },
+  "presets": {
+    "Default": {
+    }
+  }
+}
